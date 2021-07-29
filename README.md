@@ -51,7 +51,7 @@ URL:https://qiskit.org/textbook/ch-machine-learning/machine-learning-qiskit-pyto
 
 Enjoy your journey through the quantum realm !!
 
-Rita Abani
+Rita Abani 
 
 
 
