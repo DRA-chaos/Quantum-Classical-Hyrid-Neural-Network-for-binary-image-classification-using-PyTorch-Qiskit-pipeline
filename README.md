@@ -35,12 +35,18 @@ Here are a few sample observations from the study :
 
 ## References:
 [1]Crooks, Gavin. (2019). Gradients of parameterized quantum gates using the parameter-shift rule and gate decomposition. 
+
 [2]A. Asfaw, L. Bello, Y. Ben-Haim, S. Bravyi, L. Capelluto, A. C. Vazquez, J. Ceroni, J. Gambetta, S. Garion, L. Gil, et al., Learn quantum computation using qiskit (2020),
 URL:https://qiskit.org/textbook/ch-machine-learning/machine-learning-qiskit-pytorch.html
+
 [3]Krizhevsky, Alex. (2012). Learning Multiple Layers of Features from Tiny Images. University of Toronto. 
+
 [4]Oh, Seunghyeok & Choi, Jaeho & Kim, Joongheon. (2020). A Tutorial on Quantum Convolutional Neural Networks (QCNN).
+
 [5]Farhi, Edward & Neven, Hartmut. (2018). Classification with Quantum Neural Networks on Near Term Processors. 
+
 [6]Kulkarni, Viraj & Kulkarni, Milind & Pant, Aniruddha. (2020). Quantum Computing Methods for Supervised Learning. 
+
 [7]Beer, K., Bondarenko, D., Farrelly, T. et al. Training deep quantum neural networks. Nat Commun 11, 808 (2020). https://doi.org/10.1038/s41467-020-14454-2
 
 Enjoy your journey through the quantum realm !!
